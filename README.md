@@ -8,6 +8,9 @@
 </p>
 <p align="center"><img src="http://www.peachis.me/assets/vue-infinite-loading/demo.gif"></p>
 
+## FORKED VERSION
+This version is with merged fix https://github.com/PeachScript/vue-infinite-loading/pull/255/commits/0a70d6795e4a3ec25ab6daed6dce4ba7ce5192a5
+
 ## Intro
 An infinite scroll plugin for Vue.js, to help you implement an infinite scroll list more easily.
 
